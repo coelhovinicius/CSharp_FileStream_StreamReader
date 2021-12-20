@@ -1,4 +1,6 @@
-﻿using System;
+﻿/* FILESTREAM E STREAMREADER */
+
+using System;
 using System.IO;
 
 namespace Aula187_FileStream_StreamReader
